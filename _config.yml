@@ -1,0 +1,22 @@
+title: 마디손병원 척추센터
+author: 이호진
+description: >-
+  마디손병원 척추센터장 이호진이 직접 쓰는 척추 건강 이야기.
+  블랙디스크, 허리디스크, 신경차단술, 양방향척추내시경을 쉽게 설명합니다.
+lang: ko
+timezone: Asia/Seoul
+baseurl: "/madison-spine-blog"
+url: "https://leeleo98-ship-it.github.io"
+theme: minima
+permalink: /:year/:month/:title/
+date_format: "%Y년 %-m월 %-d일"
+show_excerpts: true
+header_pages:
+  - about.md
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - CLAUDE.md
+  - README.md
