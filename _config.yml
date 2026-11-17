@@ -20,3 +20,5 @@ plugins:
 exclude:
   - CLAUDE.md
   - README.md
+minima:
+  date_format: "%Y년 %-m월 %-d일"

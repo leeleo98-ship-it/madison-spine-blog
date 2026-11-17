@@ -27,7 +27,7 @@ permalink: /about/
 
 <div class="ab-hero">
   <img src="{{ "/assets/images/center-director.jpg" | relative_url }}" alt="이호진 척추센터장">
-  <p class="ab-lead">천안·아산에서 척추 통증 없는 자유로운 삶을 돕습니다.<span class="ab-name">마디손병원 척추센터장 이호진</span></p>
+  <p class="ab-lead">천안·아산에서 척추 통증 없는 자유로운 삶을 선물합니다.<span class="ab-name">마디손병원 척추센터장 이호진</span></p>
 </div>
 
 안녕하십니까. 마디손병원 척추센터장 이호진입니다.
@@ -77,7 +77,7 @@ permalink: /about/
   <li><b>3주 후</b>진료 상담</li>
 </ol>
 
-염증을 가라앉히고, 굳은 근육을 풀고, 허리와 목을 지키는 습관을 만듭니다. 목과 허리 모두 같은 과정으로 진행합니다.
+염증을 가라앉히고, 굳은 근육을 풀고, 허리와 목을 지키는 습관을 만듭니다.
 블랙디스크가 무엇인지는 [블랙디스크란? MRI에서 디스크가 까맣게 보인다는 말을 들으셨다면]({% post_url 2026-11-16-black-disc-guide %}) 글에서 보실 수 있습니다.
 
 ## 안전을 먼저 생각합니다
