@@ -99,8 +99,8 @@ permalink: /about/
 - 북미척추외과학회(NASS) 최소침습위원회(REMi) 정회원
 
 <figure class="ab-photo">
-  <img src="{{ "/assets/images/apkass-2026-podium.jpg" | relative_url }}" alt="학회에서 발표하는 이호진 센터장">
-  <figcaption>2026년 9월, APKASS 2026 Korea &amp; ICKAS 2026 발표</figcaption>
+  <img src="{{ "/assets/images/assicon-2025-podium.jpg" | relative_url }}" alt="인도 척추외과학회에서 발표하는 이호진 센터장">
+  <figcaption>2025년 1월, 인도 척추외과학회(ASSICON 2025) 발표. 사진: ASSICON 2025</figcaption>
 </figure>
 
 학회에서 발표한 내용도 쉽게 풀어 블로그에 싣고 있습니다. 최근 글: [양방향척추내시경은 왜 구멍을 두 개 낼까요? 인도 척추외과학회 발표 이야기]({% post_url 2026-11-17-assicon-2025-biportal-endoscopy %})
