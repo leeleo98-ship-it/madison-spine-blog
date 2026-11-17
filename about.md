@@ -78,7 +78,7 @@ permalink: /about/
 </ol>
 
 염증을 가라앉히고, 굳은 근육을 풀고, 허리와 목을 지키는 습관을 만듭니다.
-블랙디스크가 무엇인지는 [블랙디스크란? MRI에서 디스크가 까맣게 보인다는 말을 들으셨다면]({% post_url 2026-11-16-black-disc-guide %}) 글에서 보실 수 있습니다.
+블랙디스크가 무엇인지는 [블랙디스크란? MRI에서 디스크가 까맣게 보인다는 말을 들으셨다면]({{ site.baseurl }}{% post_url 2026-11-16-black-disc-guide %}) 글에서 보실 수 있습니다.
 
 ## 안전을 먼저 생각합니다
 
@@ -103,7 +103,7 @@ permalink: /about/
   <figcaption>2025년 1월, 인도 척추외과학회(ASSICON 2025) 발표. 사진: ASSICON 2025</figcaption>
 </figure>
 
-학회에서 발표한 내용도 쉽게 풀어 블로그에 싣고 있습니다. 최근 글: [양방향척추내시경은 왜 구멍을 두 개 낼까요? 인도 척추외과학회 발표 이야기]({% post_url 2026-11-17-assicon-2025-biportal-endoscopy %})
+학회에서 발표한 내용도 쉽게 풀어 블로그에 싣고 있습니다. 최근 글: [양방향척추내시경은 왜 구멍을 두 개 낼까요? 인도 척추외과학회 발표 이야기]({{ site.baseurl }}{% post_url 2026-11-17-assicon-2025-biportal-endoscopy %})
 
 ## 진료 안내
 
