@@ -15,10 +15,20 @@ permalink: /about/
 .ab-steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 12px 0; padding: 0; list-style: none; counter-reset: step; }
 .ab-steps li { margin: 0; padding: 12px; border-radius: 10px; background: #f1f5fa; }
 .ab-steps b { display: block; color: #1f4e8c; font-size: .85em; margin-bottom: 4px; }
+.ab-hero { display: flex; gap: 16px; align-items: center; margin: 0 0 16px; }
+.ab-hero img { width: 120px; height: auto; border-radius: 12px; flex: none; }
+.ab-hero .ab-lead { margin: 0; }
+.ab-name { display: block; font-size: .8em; font-weight: 400; color: #5a6472; margin-top: 6px; }
+.ab-photo { margin: 12px 0; }
+.ab-photo img { width: 100%; border-radius: 10px; display: block; }
+.ab-photo figcaption { color: #5a6472; font-size: .85em; margin-top: 4px; }
 .ab-note { color: #5a6472; font-size: .9em; }
 </style>
 
-<p class="ab-lead">천안·아산에서 척추 통증 없는 자유로운 삶을 돕습니다.</p>
+<div class="ab-hero">
+  <img src="{{ "/assets/images/center-director.jpg" | relative_url }}" alt="이호진 척추센터장">
+  <p class="ab-lead">천안·아산에서 척추 통증 없는 자유로운 삶을 돕습니다.<span class="ab-name">마디손병원 척추센터장 이호진</span></p>
+</div>
 
 안녕하십니까. 마디손병원 척추센터장 이호진입니다.
 
@@ -53,6 +63,11 @@ permalink: /about/
 
 수술보다 비수술 치료를 먼저 하는 것이 원칙입니다.
 
+<figure class="ab-photo">
+  <img src="{{ "/assets/images/center-rehab.jpg" | relative_url }}" alt="마디손병원 재활센터 내부">
+  <figcaption>마디손병원 재활센터</figcaption>
+</figure>
+
 ## 블랙디스크 3주 집중관리
 
 <ol class="ab-steps">
@@ -82,6 +97,11 @@ permalink: /about/
 - 아시아 태평양 척추 최소침습학회 최우수논문 발표상 수상
 - 일본 척추외과학회 최우수 논문 발표상 수상
 - 북미척추외과학회(NASS) 최소침습위원회(REMi) 정회원
+
+<figure class="ab-photo">
+  <img src="{{ "/assets/images/assicon-2025-podium.jpg" | relative_url }}" alt="인도 척추외과학회에서 발표하는 이호진 센터장">
+  <figcaption>2025년 1월, 인도 척추외과학회(ASSICON 2025) 발표. 사진: ASSICON 2025</figcaption>
+</figure>
 
 학회에서 발표한 내용도 쉽게 풀어 블로그에 싣고 있습니다. 최근 글: [양방향척추내시경은 왜 구멍을 두 개 낼까요? 인도 척추외과학회 발표 이야기]({% post_url 2026-11-17-assicon-2025-biportal-endoscopy %})
 
